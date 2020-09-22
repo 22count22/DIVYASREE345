@@ -3,7 +3,7 @@
      * I am a student of HACK YOUR FUTURE BELGIUM Full stack Developer Batch 11-12. 
      * An Indian currently living in BELGIUM with my family.
      * Graduated in Electronics and Communication Engineering and have 1.5 years of teaching experience in Poly Technic college.
-     * My hobbies are cooking
+     
     
 
     
